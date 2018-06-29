@@ -1,6 +1,7 @@
 ## How to use this
 
 Clone the repository.
+Download the ResNet50 Model [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5) and place it in the same directory as the repository.
 
 Run the Python script from terminal :
 ```
